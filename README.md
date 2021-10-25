@@ -1,0 +1,1 @@
+# api-also-cdn-redirects
